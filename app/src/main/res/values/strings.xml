@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Talker</string>
+    <string name="text_text_view">Talker APP</string>
+    <string name="btn_text">Click for talking</string>
+</resources>
